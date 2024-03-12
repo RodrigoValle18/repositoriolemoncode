@@ -18,3 +18,5 @@
 
 
 __Añado a la carpeta repositorio la carpeta img donde estan las capturas de los pasos que he realizado. Redacto los pasos que pedían en el laboratorio de Git dentro del archivo README.md, inserto las imágenes, creo un archivo gitignore para ocultar la carpeta, add, commit y push__
+
+_No cargan las imágenes si mantengo la carpeta img en gitignore, así que borro gitignore y repito los pasos_
